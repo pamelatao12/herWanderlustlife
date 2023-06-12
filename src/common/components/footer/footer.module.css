@@ -1,0 +1,80 @@
+.footer {
+  width: 100vw;
+  min-width: 1425px;
+  height: 148px;
+  background-color: #f8f5f0;
+  position: relative;
+}
+
+.footerlogo {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  max-width: 50vw;
+}
+.logo {
+  height: 100px;
+}
+
+.redirectFooterButton {
+  position: relative;
+  left: 440px;
+  top: -85px;
+  display: table;
+  /* margin: 5px; */
+  padding: 5px;
+  padding-left: 10px;
+  border-left: solid;
+  border-color: #d3d3d3;
+  border-width: thin;
+}
+
+.redirectBtn {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  /* font-size: 20px; */
+  font-size: calc(5px + 0.390625vw);
+  /* line-height: 27px; */
+  border: none;
+  background-color: transparent;
+  color: darkgray;
+  cursor: pointer;
+}
+
+.footerIcons {
+  position: absolute;
+  bottom: 4vw;
+  right: 20vw;
+}
+
+.footerCopyright {
+  display: inline-flex;
+  position: absolute;
+  bottom: 0.1vw;
+  right: 0vw;
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  /* font-weight: 300; */
+  /* font-size: 20px; */
+  font-size: calc(5px + 0.390625vw);
+  /* line-height: 27px; */
+  border: none;
+  background-color: transparent;
+  color: gray;
+}
+
+.policy {
+  margin: 10px;
+}
+.redirectFooterPolicyBtn {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  /* font-size: 20px; */
+  font-size: calc(5px + 0.390625vw);
+  /* line-height: 27px; */
+  border: none;
+  background-color: transparent;
+  color: gray;
+  cursor: pointer;
+}

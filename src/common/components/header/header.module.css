@@ -1,0 +1,50 @@
+.header {
+  text-align: center;
+  width: 100vw;
+  min-width: 1425px;
+  height: 140px;
+  position: absolute;
+  z-index: 100;
+  background-color: #f8f5f0;
+}
+
+.redirectHeaderButton {
+  position: relative;
+  top: -20px;
+  /* width: 180px; */
+  display: inline-block;
+  margin: 50px;
+}
+
+.redirectHeaderDButton {
+  position: relative;
+  top: -20px;
+  /* width: 180px; */
+  display: inline-block;
+  margin: 10px;
+}
+
+.redirectBtn {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  /* font-size: 20px; */
+  font-size: calc(12px + 0.390625vw);
+  line-height: 27px;
+  border: none;
+  background-color: transparent;
+  color: darkgray;
+  cursor: pointer;
+}
+
+.logo {
+  height: 100px;
+}
+.redirectHeaderLogo {
+  position: relative;
+  top: 20px;
+}
+
+/* font-family: 'Italiana', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Pinyon Script', cursive; */

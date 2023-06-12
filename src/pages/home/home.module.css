@@ -1,0 +1,107 @@
+.App {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.siteContent {
+  flex: 1;
+  margin-top: 140px;
+  max-width: 1448px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 80px;
+  text-align: center;
+}
+
+.postCards {
+  display: flex;
+  margin-top: 2vh;
+  justify-content: space-between;
+  width: 100vw;
+  max-width: 1448px;
+}
+
+.moreBlogPostButton {
+  margin-top: 70px;
+}
+
+.myIntro {
+  max-width: 1448px;
+  margin-top: 50px;
+  background: #f8f5f0;
+  height: 620px;
+}
+
+.myPicture {
+  float: left;
+  width: 572px;
+  margin-left: 10%;
+  margin-right: 60px;
+  margin-top: 30px;
+}
+
+.blurb {
+  margin-top: 50px;
+}
+
+.welcome {
+  font-family: "Pinyon Script", cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 100px;
+  text-align: center;
+  color: black;
+  text-align: left;
+  position: relative;
+  top: 60px;
+}
+
+.blurbContent {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  text-align: left;
+  color: #000000;
+  margin-right: 120px;
+  margin-left: 820px;
+  margin-top: 70px;
+}
+
+.signOff {
+  font-family: "Pinyon Script", cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 80px;
+  text-align: center;
+  color: black;
+  text-align: right;
+  margin-right: 80px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.readMoreButton {
+  text-align: left;
+}
+
+.featuredTitle {
+  font-family: "Pinyon Script";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 75px;
+  /* identical to box height */
+  color: #000000;
+}
+
+.featuredPosts {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+}

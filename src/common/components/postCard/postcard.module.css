@@ -1,0 +1,82 @@
+.postCard {
+  position: relative;
+}
+
+.postCardLink {
+}
+
+.imageFrame {
+  /* height: 700px; */
+  height: 500px;
+  width: 475px;
+  overflow: hidden;
+}
+
+.postCardImage {
+  width: 475px;
+  top: -25%;
+  position: relative;
+}
+.titleFrame {
+  position: absolute;
+  top: 70%;
+  left: 6%;
+  z-index: 5;
+  width: 200px;
+}
+.destination {
+  font-family: "Pinyon Script", cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 120px;
+  line-height: 150px;
+  text-align: center;
+  color: #f8f5f0;
+  transform: rotate(-9.37deg);
+  margin: -30px;
+  position: relative;
+  z-index: 5;
+}
+
+.longDestination {
+  font-family: "Pinyon Script", cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 100px;
+  line-height: 150px;
+  text-align: center;
+  color: #f8f5f0;
+  transform: rotate(-9.37deg);
+  margin: -30px;
+  position: relative;
+  z-index: 5;
+}
+
+.titleCard {
+  background: #c8c0ab;
+  height: 90%;
+  width: 180%;
+  position: absolute;
+  left: 15%;
+  top: 120%;
+  z-index: 2;
+}
+
+.title {
+  background: #c8c0ab;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  border: solid;
+  padding-left: 15px;
+  width: 80%;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: auto;
+  top: 12px;
+  position: relative;
+}
