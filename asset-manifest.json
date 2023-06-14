@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/herwanderlustlife/static/css/main.b20118ed.css",
+    "main.js": "/herwanderlustlife/static/js/main.08c9a97c.js",
+    "static/js/787.de9fd1d9.chunk.js": "/herwanderlustlife/static/js/787.de9fd1d9.chunk.js",
+    "index.html": "/herwanderlustlife/index.html",
+    "main.b20118ed.css.map": "/herwanderlustlife/static/css/main.b20118ed.css.map",
+    "main.08c9a97c.js.map": "/herwanderlustlife/static/js/main.08c9a97c.js.map",
+    "787.de9fd1d9.chunk.js.map": "/herwanderlustlife/static/js/787.de9fd1d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b20118ed.css",
+    "static/js/main.08c9a97c.js"
+  ]
+}
